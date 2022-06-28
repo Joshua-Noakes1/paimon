@@ -1,4 +1,4 @@
-title: CocoGoat Status
+title: Joshua Noakes Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
@@ -56,12 +56,12 @@ params:
   brand: "#906fbd"
   enableLastMod: true
   headerTextColor: white
-  logo: https://cdx.cocogoat.xyz/images/bimi.svg
+  logo: /img/screenshot-2021-02-07-004922.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: false
   disableComplexCalculations: false
-  useLogo: true
+  useLogo: false
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: monthly
