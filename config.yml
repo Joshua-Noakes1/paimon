@@ -2,7 +2,7 @@ title: Eggsample Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://fascinating-longma-d94c2f.netlify.app
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
